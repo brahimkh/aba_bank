@@ -7,4 +7,4 @@ A new Flutter project.
 
 ## Getting Started
  
-![Screenshot_1682427865.png](..%2F..%2FDesktop%2FScreenshot_1682427865.png)
+![Screenshot_1682427865.png](Screenshot_1682427865.png)
